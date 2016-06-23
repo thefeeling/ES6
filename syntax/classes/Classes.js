@@ -91,9 +91,8 @@ class Person{
 //[Test Source]
 //------------------------------------------------
 let john = new Person("John", 27);
-console.log(john);
-john.age = 30;
-console.log(john._name)
-console.log(john._age)
+console.log(john.setAge(20));
+console.log(john.getAge());
+
 
 

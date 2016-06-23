@@ -12,10 +12,6 @@ letValue.forEach(function(value){
 	console.log(value);
 });
 
-
-// 
-// 
-
 /**
  * -----------------------------------------------------
  * [ES6]
